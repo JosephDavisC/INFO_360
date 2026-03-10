@@ -1,8 +1,21 @@
 # UW Nap Spot Finder
 
-A high-fidelity interactive prototype for finding quiet nap spots across the University of Washington campus. Built for INFO 360 (Design Methods) at UW.
+A high-fidelity interactive prototype for finding quiet nap spots across the University of Washington campus. Built for INFO 360: Design Methods, taught by Lindah Kotut at UW.
 
-**Live Demo:** [info360.joechamdani.com](https://info360.joechamdani.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-info360.joechamdani.com-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://info360.joechamdani.com)
+[![Watch Video](https://img.shields.io/badge/Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HGUOwM9aqSw)
+
+## Preview
+
+![Website Preview](public/assets/preview.png)
+
+[![Try the Prototype](https://img.shields.io/badge/Try_the_Prototype-info360.joechamdani.com-4B2E83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://info360.joechamdani.com)
+
+## Demo Video
+
+[![UW Nap Spot Finder Demo](https://img.youtube.com/vi/HGUOwM9aqSw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HGUOwM9aqSw)
+
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HGUOwM9aqSw)
 
 ## Features
 
@@ -69,13 +82,15 @@ public/
 
 ## Team
 
-**Team B-Penabur** - INFO 360, Winter 2026
+**Team B-Penabur** — INFO 360: Design Methods, Winter 2026
 
-- Joseph Davis Chamdani
-- Kenneth Wu
-- Kenneth Pangestu
-- Winson Teh
+| | Name | GitHub |
+|---|---|---|
+| <img src="public/team/joseph.jpeg" width="60" style="border-radius:50%"> | **Joseph Davis Chamdani** | [@JosephDavisC](https://github.com/JosephDavisC) |
+| <img src="public/team/kenneth.jpeg" width="60" style="border-radius:50%"> | **Kenneth Wu** | [@kennethwu30](https://github.com/kennethwu30) |
+| <img src="public/team/kenneth_p.png" width="60" style="border-radius:50%"> | **Kenneth Pangestu** | |
+| <img src="public/team/winson.jpeg" width="60" style="border-radius:50%"> | **Winson Teh** | [@win719](https://github.com/win719) |
 
 ## License
 
-This project was created for educational purposes as part of the University of Washington's INFO 360 course.
+This project was created for educational purposes as part of the University of Washington's INFO 360: Design Methods course, taught by Lindah Kotut.

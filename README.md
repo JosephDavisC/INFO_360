@@ -88,7 +88,7 @@ public/
 |---|---|---|
 | <img src="public/team/joseph.jpeg" width="60" style="border-radius:50%"> | **Joseph Davis Chamdani** | [@JosephDavisC](https://github.com/JosephDavisC) |
 | <img src="public/team/kenneth.jpeg" width="60" style="border-radius:50%"> | **Kenneth Wu** | [@kennethwu30](https://github.com/kennethwu30) |
-| <img src="public/team/kenneth_p.png" width="60" style="border-radius:50%"> | **Kenneth Pangestu** | |
+| <img src="public/team/kenneth_p.png" width="60" style="border-radius:50%"> | **Kenneth Pangestu** | [@kennethpangestu](https://github.com/kennethpangestu) |
 | <img src="public/team/winson.jpeg" width="60" style="border-radius:50%"> | **Winson Teh** | [@win719](https://github.com/win719) |
 
 ## License
